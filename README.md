@@ -2,4 +2,4 @@
 
 
 ** **
-Hello, I'm **Veyndor.** I build AI projects. I build game projects for fun. 
+Hello, I'm **Veyndor.** I build AI projects and game projects for fun. 
