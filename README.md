@@ -2,4 +2,4 @@
 
 
 ** **
-Hello, I'm **Veyndor.** I build AI projects and game projects.
+Hello, I'm **Veyndor.** I am Hıghschool student. I build AI projects and game projects.
